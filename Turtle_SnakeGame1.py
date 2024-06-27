@@ -5,6 +5,8 @@ from Turtle_SnakeGame2 import Snake
 from Turtle_SnakeGame3 import Food
 from Turtle_SnakeGame4 import S_Board
 
+# this is called comment
+
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
